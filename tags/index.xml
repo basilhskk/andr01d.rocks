@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Andr01d rocks</title>
+    <title>Tags on Andr01d Rocks</title>
     <link>https://andr01d.rocks/tags/</link>
-    <description>Recent content in Tags on Andr01d rocks</description>
+    <description>Recent content in Tags on Andr01d Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andr01d.rocks/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Apr 2023 03:22:59 +0400</lastBuildDate><atom:link href="https://andr01d.rocks/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>https://andr01d.rocks/tags/linux/</link>
+      <pubDate>Sat, 22 Apr 2023 03:22:59 +0400</pubDate>
+      
+      <guid>https://andr01d.rocks/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malware-analysis</title>
+      <link>https://andr01d.rocks/tags/malware-analysis/</link>
+      <pubDate>Sat, 22 Apr 2023 03:22:59 +0400</pubDate>
+      
+      <guid>https://andr01d.rocks/tags/malware-analysis/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

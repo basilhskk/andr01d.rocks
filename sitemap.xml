@@ -2,20 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andr01d.rocks/about/</loc>
-    <lastmod>2023-04-22T01:39:49+04:00</lastmod>
-  </url><url>
     <loc>https://andr01d.rocks/</loc>
-    <lastmod>2023-04-22T01:24:48+04:00</lastmod>
+    <lastmod>2023-04-22T03:22:59+04:00</lastmod>
+  </url><url>
+    <loc>https://andr01d.rocks/tags/linux/</loc>
+    <lastmod>2023-04-22T03:22:59+04:00</lastmod>
+  </url><url>
+    <loc>https://andr01d.rocks/tags/malware-analysis/</loc>
+    <lastmod>2023-04-22T03:22:59+04:00</lastmod>
   </url><url>
     <loc>https://andr01d.rocks/posts/</loc>
-    <lastmod>2023-04-22T01:24:48+04:00</lastmod>
+    <lastmod>2023-04-22T03:22:59+04:00</lastmod>
+  </url><url>
+    <loc>https://andr01d.rocks/posts/setting-up-a-malware-analysis-env/</loc>
+    <lastmod>2023-04-22T03:22:59+04:00</lastmod>
+  </url><url>
+    <loc>https://andr01d.rocks/tags/</loc>
+    <lastmod>2023-04-22T03:22:59+04:00</lastmod>
+  </url><url>
+    <loc>https://andr01d.rocks/about/</loc>
+    <lastmod>2023-04-22T01:39:49+04:00</lastmod>
   </url><url>
     <loc>https://andr01d.rocks/posts/welcome/</loc>
     <lastmod>2023-04-22T01:24:48+04:00</lastmod>
   </url><url>
     <loc>https://andr01d.rocks/categories/</loc>
-  </url><url>
-    <loc>https://andr01d.rocks/tags/</loc>
   </url>
 </urlset>
