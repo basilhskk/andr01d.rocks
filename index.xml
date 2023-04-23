@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Apr 2023 13:00:58 +0400</lastBuildDate><atom:link href="https://andr01d.rocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android Sunday: Malware Analysis 1</title>
-      <link>https://andr01d.rocks/posts/android-sunday-malware-analysis-1/</link>
+      <title>Malware Sunday: Android Malware Analysis 1</title>
+      <link>https://andr01d.rocks/posts/malware-sunday-android-malware-analysis-1/</link>
       <pubDate>Sun, 23 Apr 2023 13:00:58 +0400</pubDate>
       
-      <guid>https://andr01d.rocks/posts/android-sunday-malware-analysis-1/</guid>
+      <guid>https://andr01d.rocks/posts/malware-sunday-android-malware-analysis-1/</guid>
       <description>Malware Sundays Sundays usually are days I am more relaxed from work and I like to do things that I find interesting. Follow my journey of android Malware Analysis every sunday (or most of them).
 Summary Finding interesting malware samples can be a hard task since most of them are very basic yet effective. Luckily Łukasz Siewierski known as @maldr0id have us covered, he posted a list of interesting malware samples on his blog.</description>
     </item>
