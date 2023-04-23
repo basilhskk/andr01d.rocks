@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>locker on Andr01d Rocks</title>
+    <link>https://andr01d.rocks/tags/locker/</link>
+    <description>Recent content in locker on Andr01d Rocks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2023 13:00:58 +0400</lastBuildDate><atom:link href="https://andr01d.rocks/tags/locker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Sunday: Malware Analysis 1</title>
+      <link>https://andr01d.rocks/posts/android-sunday-malware-analysis-1/</link>
+      <pubDate>Sun, 23 Apr 2023 13:00:58 +0400</pubDate>
+      
+      <guid>https://andr01d.rocks/posts/android-sunday-malware-analysis-1/</guid>
+      <description>Malware Sundays Sundays usually are days I am more relaxed from work and I like to do things that I find interesting. Follow my journey of android Malware Analysis every sunday (or most of them).
+Summary Finding interesting malware samples can be a hard task since most of them are very basic yet effective. Luckily Łukasz Siewierski known as @maldr0id have us covered, he posted a list of interesting malware samples on his blog.</description>
+    </item>
+    
+  </channel>
+</rss>
