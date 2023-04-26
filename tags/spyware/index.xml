@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spyware on Andr01d Rocks</title>
+    <link>https://andr01d.rocks/tags/spyware/</link>
+    <description>Recent content in spyware on Andr01d Rocks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2023 01:23:42 +0400</lastBuildDate><atom:link href="https://andr01d.rocks/tags/spyware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infostealer Fakecaller Malware Analysis</title>
+      <link>https://andr01d.rocks/posts/infostealer-fakecaller-malware-analysis/</link>
+      <pubDate>Mon, 24 Apr 2023 01:23:42 +0400</pubDate>
+      
+      <guid>https://andr01d.rocks/posts/infostealer-fakecaller-malware-analysis/</guid>
+      <description>Summary Finding interesting malware samples can be a hard task since most of them are very basic yet effective. Luckily Łukasz Siewierski known as @maldr0id have us covered, he posted a list of interesting malware samples on his blog. In this post, we are going to delve into the average section since the easy ones were trivial and not worthy making a post for. Enjoy.
+If you have any interesting samples that you want to see analyzed, don&amp;rsquo;t hesitate to contact me.</description>
+    </item>
+    
+  </channel>
+</rss>
