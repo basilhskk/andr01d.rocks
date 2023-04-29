@@ -6,36 +6,7 @@
     <description>Recent content in Posts on Andr01d Rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Apr 2023 01:23:42 +0400</lastBuildDate><atom:link href="https://andr01d.rocks/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Infostealer Fakecaller Malware Analysis</title>
-      <link>https://andr01d.rocks/posts/infostealer-fakecaller-malware-analysis/</link>
-      <pubDate>Mon, 24 Apr 2023 01:23:42 +0400</pubDate>
-      
-      <guid>https://andr01d.rocks/posts/infostealer-fakecaller-malware-analysis/</guid>
-      <description>Summary Finding interesting malware samples can be a hard task since most of them are very basic yet effective. Luckily Łukasz Siewierski known as @maldr0id have us covered, he posted a list of interesting malware samples on his blog. In this post, we are going to delve into the average section since the easy ones were trivial and not worthy making a post for. Enjoy.
-If you have any interesting samples that you want to see analyzed, don&amp;rsquo;t hesitate to contact me.</description>
-    </item>
-    
-    <item>
-      <title>Malware Sunday: Android Malware Analysis 1</title>
-      <link>https://andr01d.rocks/posts/malware-sunday-android-malware-analysis-1/</link>
-      <pubDate>Sun, 23 Apr 2023 13:00:58 +0400</pubDate>
-      
-      <guid>https://andr01d.rocks/posts/malware-sunday-android-malware-analysis-1/</guid>
-      <description>Malware Sundays Sundays usually are days I am more relaxed from work and I like to do things that I find interesting. Follow my journey of android Malware Analysis every sunday (or most of them).
-Summary Finding interesting malware samples can be a hard task since most of them are very basic yet effective. Luckily Łukasz Siewierski known as @maldr0id have us covered, he posted a list of interesting malware samples on his blog.</description>
-    </item>
-    
-    <item>
-      <title>Setting Up a Malware Analysis Environment</title>
-      <link>https://andr01d.rocks/posts/setting-up-a-malware-analysis-env/</link>
-      <pubDate>Sat, 22 Apr 2023 03:22:59 +0400</pubDate>
-      
-      <guid>https://andr01d.rocks/posts/setting-up-a-malware-analysis-env/</guid>
-      <description>Summary This is not meant to be a step by step tutorial rather I wanted to make a good listing of the most useful tools I am using daily for malware analysis. In order to do malware analysis on android we only need 3+1 things. A computer, right tools, a malware sample (and brains). In this post I will help you setup a malware analysis Virtual Machine with all essential tools to get you started.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 28 Apr 2023 23:46:26 +0400</lastBuildDate><atom:link href="https://andr01d.rocks/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my humble blog</title>
       <link>https://andr01d.rocks/posts/welcome/</link>
