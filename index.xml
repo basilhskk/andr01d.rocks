@@ -13,7 +13,7 @@
       <pubDate>Mon, 24 Apr 2023 01:23:42 +0400</pubDate>
       
       <guid>https://andr01d.rocks/malware-analysis/infostealer-fakecaller-malware-analysis/</guid>
-      <description>Summary Finding interesting malware samples can be a hard task since most of them are very basic yet effective. Luckily Łukasz Siewierski known as @maldr0id have us covered, he posted a list of interesting malware samples on his blog. In this post, we are going to delve into the average section since the easy ones were trivial and not worthy making a post for. Enjoy.
+      <description>Summary Finding interesting malware samples can be a hard task since most of them are very basic yet effective. Luckily Łukasz Siewierski known as @maldr0id have us covered, he posted a list of interesting malware samples on his blog. In this post, we are going to delve into the average section since the easy ones were trivial and not worth making a post for. Enjoy.
 If you have any interesting samples that you want to see analyzed, don&amp;rsquo;t hesitate to contact me.</description>
     </item>
     
@@ -42,7 +42,7 @@ Summary Finding interesting malware samples can be a hard task since most of the
       <pubDate>Sat, 22 Apr 2023 01:39:49 +0400</pubDate>
       
       <guid>https://andr01d.rocks/about/</guid>
-      <description>Hello Ms/Mr. Viewer, I welcome you to this very blog you see in front of your eye(s). In this blog I will be uploading malware analysis, android internals,android applications and tools I create in my free time. As every project I do I always start with huge excitement which gradually fades. I expect nothing different for this project but I will try to be consistent with a couple posts per month.</description>
+      <description>Hello Ms/Mr. Viewer, I welcome you to this very blog you see in front of your eye(s). In this blog, I will be uploading malware analysis, android internals, android applications, and tools I create in my free time. As with every project I do I always start with huge excitement which gradually fades. I expect nothing different for this project but I will try to be consistent with a couple of posts per month.</description>
     </item>
     
     <item>
