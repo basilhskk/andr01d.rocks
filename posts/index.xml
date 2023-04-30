@@ -7,14 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Apr 2023 23:46:26 +0400</lastBuildDate><atom:link href="https://andr01d.rocks/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome to my humble blog</title>
-      <link>https://andr01d.rocks/posts/welcome/</link>
-      <pubDate>Sat, 22 Apr 2023 01:24:48 +0400</pubDate>
-      
-      <guid>https://andr01d.rocks/posts/welcome/</guid>
-      <description>Content Hello MS/Mr. Viewer, I welcome you to this very blog you see in front of your eye(s). In this blog I will be uploading malware analysis, android internals,android applications and tools I create in my free time. As every project I do I always start with huge excitement which gradually fades. I expect nothing different for this project but I will try to be consistent with a couple posts per month.</description>
-    </item>
-    
   </channel>
 </rss>
